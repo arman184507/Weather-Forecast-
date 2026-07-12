@@ -12,7 +12,7 @@ function App() {
 
   useEffect(() => {
     weather.fetchCurrentUserLocationData()
-  }, []);
+  }, [weather]);
    return (
     <div className="App">
     <h1>Weather Forecast</h1>
