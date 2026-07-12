@@ -56,18 +56,6 @@ http://localhost:3000
 
 ---
 
-## 📂 Project Structure
-
-```
-src/
-├── components/
-├── context/
-├── App.js
-├── App.css
-└── index.js
-```
-
----
 
 ## 👨‍💻 Author
 
